@@ -1,1 +1,3 @@
-# python3
+CHAPTER05/Q5_1_2.py
+CHAPTER05/Q5_1_3.py
+
